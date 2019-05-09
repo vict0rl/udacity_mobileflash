@@ -1,0 +1,15 @@
+{
+  "name": "github.com/bestgigacat/udacity-mobile-flashcards",
+  "version": "0.0.0",
+  "description": "BestGigaCat/udacity-mobile-flashcards @ Dec 1, 2018",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^31.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "@expo/samples": "2.1.1",
+    "react-navigation": "^2.18.2"
+  }
+}
