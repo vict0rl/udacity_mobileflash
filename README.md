@@ -16,3 +16,6 @@ Manual testings are done on IOS simulator.
 The development of this project was done with expo.
 
 # Reference:
+
+https://snack.expo.io/@git/github.com/vict0rl/udacity_mobileflash
+
